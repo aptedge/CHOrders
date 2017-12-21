@@ -1,0 +1,1295 @@
+- - - 10/12/2017 1:09:34 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5194
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 1:11:01 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5194
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 1:35:44 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 1:46:54 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5152
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 2:16:51 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5191
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 2:17:00 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5191
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 2:17:06 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5191
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 2:17:10 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5191
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 2:17:28 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5191
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 2:17:33 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5191
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 2:17:46 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5191
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 2:17:51 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5191
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 2:17:57 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5191
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 2:18:34 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5191
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 2:18:49 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5191
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 2:19:19 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 2:19:45 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 2:22:04 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 2:36:03 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 3:20:06 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5196
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 3:20:18 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5196
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 3:20:37 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5196
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 5:44:20 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5197
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 5:45:21 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5197
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 5:54:24 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 5:55:58 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/12/2017 6:02:25 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 9:45:20 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 9:45:22 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 9:55:05 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 10:08:22 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 10:09:26 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 10:09:34 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 10:09:35 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 10:15:12 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 11:06:36 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 11:10:13 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 11:10:19 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 11:10:26 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 11:26:29 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 11:26:31 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 11:51:46 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5199
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 12:15:16 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5200
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 12:16:44 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5200
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 12:22:13 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 12:23:06 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 12:24:06 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 12:24:22 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 12:25:13 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 12:27:17 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5201
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 12:27:45 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5201
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 12:54:45 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 1:01:22 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 1:01:24 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 1:16:35 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 1:23:09 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5202
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 1:23:16 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5202
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 1:23:20 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5202
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 1:24:23 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 1:28:59 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 1:29:07 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 2:30:00 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 2:30:11 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 2:30:21 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 2:30:26 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 2:30:34 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 2:30:48 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 2:31:03 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 2:31:13 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 2:39:32 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 2:40:07 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/13/2017 2:44:29 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/14/2017 8:43:50 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/14/2017 8:53:13 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/14/2017 8:53:56 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/14/2017 8:53:59 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/14/2017 8:54:33 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/14/2017 8:55:37 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/14/2017 8:56:14 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/14/2017 8:57:56 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/14/2017 8:58:04 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/14/2017 8:58:20 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/14/2017 9:01:06 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/14/2017 9:01:10 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/14/2017 9:54:37 AM - - -
+TurningPointDataComponent(2)IsOrderCS()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5214
+WPCOSS
+   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.Odbc.OdbcDataReader.get_Item(String value)
+   at Turningpoint.Data.TurningpointDataComponent.IsOrderCS(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 3975
+
+- - - 10/14/2017 10:58:45 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/14/2017 10:58:58 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/14/2017 3:43:18 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 9:09:51 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 10:47:53 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5217
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 10:47:57 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5217
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 10:57:33 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5217
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 11:41:34 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5221
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 11:50:14 AM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 12:55:21 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 3:34:49 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 4:33:08 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5227
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 4:33:33 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5227
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 4:34:00 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5227
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 4:34:05 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5227
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 4:34:20 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5227
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 4:34:35 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5227
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 4:35:06 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5227
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 5:31:28 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=5230
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 5:36:11 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=0
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 6:41:10 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 6:41:26 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 6:41:57 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 6:43:30 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 6:44:09 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 6:45:23 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 6:45:27 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 6:45:57 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 6:46:47 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 6:47:15 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 6:47:47 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 6:48:39 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
+- - - 10/16/2017 6:48:41 PM - - -
+TurningPointDataComponent(2)GetOrderCustomer()
+SQL = SELECT * FROM FPWPORH WHERE WPTORD=2952
+ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.Odbc.OdbcConnection.SetStateExecuting(String method, OdbcTransaction transaction)
+   at System.Data.Odbc.OdbcCommand.ValidateConnectionAndTransaction(String method)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   at System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   at System.Data.Odbc.OdbcCommand.ExecuteReader(CommandBehavior behavior)
+   at Turningpoint.Data.TurningpointDataComponent.GetOrderCustomer(OdbcConnection odbcConnection, Decimal orderNo) in c:\Turning Point\Web Portal\TP.Code\TurningpointDataHelper\TurningpointDataComponent.cs:line 4043
+
